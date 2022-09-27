@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dansuca
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning html,css,js,react
 - 💞️ I’m looking to collaborate on Web Pages.
 - 📫 How to reach me dansuca23@gmail.com
 
